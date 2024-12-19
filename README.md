@@ -12,5 +12,5 @@ Download the files and navigate to project repo and type the following in Termin
 The output will be a sequence of .poly files, which can be directly visualized by Houdini. A demo of my render can be found below!<br />
 <br />
 
-**Demo:** https://alicesbian.wixsite.com/portfolio/cg-and-animation <br />
-Look for brush video under Simulations section.
+**Demo:** <br />
+
