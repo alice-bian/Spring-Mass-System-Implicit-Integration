@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/98a25237-4251-4103-9040-2d61280a259b
 
 
 
-
+<br />
+bunny being slung with various stiffness constants
+<br />
 https://github.com/user-attachments/assets/d155fd60-9884-4121-b9b7-0bee44095276
 
